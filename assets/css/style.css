@@ -2550,7 +2550,7 @@ section.hero-contact-banner-section {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.644),rgba(0, 0, 0, 0.534)),url(../img/main-page/contact.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: bottom;
+	background-position: bottom right;
 	padding: 11% 0;
 }
 .get-in-touch-title h1 {
